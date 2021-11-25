@@ -9,7 +9,7 @@ Users should be able to:
 
 ## Screenshot
 
-<img src="https://awesomescreenshot.s3.amazonaws.com/image/2632137/16402008-41ffce8b2ff3c47f014c3ffb38c40661.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20211113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211113T165228Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=b8d0a2851c38a05ce0a6213c5dd72b75540cae5fb42ecdc948d953d7e517ab2b" alt="Frontend Mentor - Order summary card solution preview" width="600">
+<img src="order-summary-card-preview.png" alt="Frontend Mentor - Order summary card solution preview" width="600">
 
 ## Links
 
